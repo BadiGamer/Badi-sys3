@@ -1,1 +1,2 @@
-# Badi-sys3
+# EmortalBot
+EmortalBot
